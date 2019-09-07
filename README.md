@@ -5,3 +5,5 @@
 * Use JavaScript to interact with TensorFlow JS
 * Load MobileNet models and KNN Classifier to use in JavaScript
 * More to understand ...
+* Plan to integrate this with Flask webapp!
+
